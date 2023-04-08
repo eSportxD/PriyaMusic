@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 from PriyaMusic.config import ASSISTANT_NAME, BOT_USERNAME
 from cache.filters import command, other_filters
 from cache.queues import QUEUE, add_to_queue
-from cache.main import call_py, esport as user
+from cache.main import call_py, priyamusic as user
 from cache.utils import bash
 from pyrogram import Client
 from pyrogram.errors import UserAlreadyParticipant, UserNotParticipant
