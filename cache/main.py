@@ -21,7 +21,7 @@ user = PyTgCalls(priyamusic,
     cache_duration=100,
     overload_quiet_mode=True,)
 
-call_py = PyTgCalls(esport, overload_quiet_mode=True)
+call_py = PyTgCalls(priyamusic, overload_quiet_mode=True)
 
 with Client("PriyaMusic", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
     me_bot = app.get_me()
