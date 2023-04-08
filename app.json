@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/PriyaUpdates",
-    "repository": "",
+    "repository": "https://github.com/MyLoveMoon/PriyaMusicBot",
     "success_url": "https://t.me/PriyaUpdates",
     "env": {
         "API_ID": {
