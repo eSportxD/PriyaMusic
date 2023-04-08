@@ -67,11 +67,6 @@
             "description": "fill with your upstream repo",
             "required": true,
             "value": ""
-        },
-         "UPSTREAM_BRANCH" {
-            "description": "fill with your upstream branch",
-            "required": true,
-            "value": ""
         }
     },
     "addons": [],
