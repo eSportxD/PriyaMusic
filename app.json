@@ -62,11 +62,6 @@
             "description": "fill with your telegram account nickname/name",
             "required": false,
             "value": "ᴘʀɪʏᴀ ᴍᴜsɪᴄ"
-        },
-        "UPSTREAM_REPO" {
-            "description": "fill with your upstream repo",
-            "required": true,
-            "value": ""
         }
     },
     "addons": [],
