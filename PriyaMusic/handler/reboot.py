@@ -20,7 +20,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
 
-@bot.on_message(filters.command("reboot")) & filters.service)
+@bot.on_message(filters.command("reboot") & filters.service)
 async def reboot(client, msg):
     print("getting memebers from {}".format(msg.chat.id))
     async for i in bot.iter_chat_members(msg.chat.id):
