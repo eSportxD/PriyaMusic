@@ -3,7 +3,7 @@
 <p align="center"><a href="https://t.me/priyamuzicbot"> <img src="https://img.shields.io/badge/𝐏𝐫𝐢𝐲𝐚 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭-lightgreen?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
 
 
-<p align="center"><a href="https://t.me/rjbr0"><img src="https://telegra.ph//file/a855ceaa3910d17a3174a.jpg"></a></p>
+<p align="center"><a href="https://t.me/priyaupdates"><img src="https://telegra.ph//file/a855ceaa3910d17a3174a.jpg"></a></p>
 <p align="center">
     <br><b>𝐏𝐫𝐢𝐲𝐚 𝐌𝐮𝐬𝐢𝐜 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐈𝐬 𝐚 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐡𝐚𝐭'𝐬 𝐀𝐥𝐥𝐨𝐰 𝐘𝐨𝐮 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐌𝐮𝐬𝐢𝐜 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩</b><br>
 
