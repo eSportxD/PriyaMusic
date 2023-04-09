@@ -155,9 +155,9 @@ async def vplay(c: Client, m: Message):
                 )
             else:
                 if Q == 720:
-                    esport = HighQualityVideo()
+                    priyamusic = HighQualityVideo()
                 elif Q == 480:
-                    esport = MediumQualityVideo()
+                    priyamusic = MediumQualityVideo()
                 elif Q == 360:
                     esport = LowQualityVideo()
                 await loser.edit("🙊")
