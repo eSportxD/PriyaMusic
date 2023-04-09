@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from cache.filters import command, other_filters
 from cache.decorators import sudo_users_only, errors
 
-downloads = os.path.realpath("eSport/downloads")
+downloads = os.path.realpath("PriyaMusic/downloads")
 raw = os.path.realpath(".")
 
 @Client.on_message(command(["rmd", "clear"]) & ~filters.edited)
