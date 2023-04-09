@@ -7,11 +7,6 @@
 <p align="center">
     <br><b>𝐏𝐫𝐢𝐲𝐚 𝐌𝐮𝐬𝐢𝐜 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐈𝐬 𝐚 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐡𝐚𝐭'𝐬 𝐀𝐥𝐥𝐨𝐰 𝐘𝐨𝐮 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐌𝐮𝐬𝐢𝐜 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩</b><br>
 
-
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 😊
-
-<p align="center"><a href="https://iv.iamidiotareyoutoo.com/1016b36829514d0ba3f7a1a7d4c23ec1_vTelegraphBot"> <img src="https://img.shields.io/badge/𝐁𝐨𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-violet?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
-
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🤫
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LeeyooMuzicBot/PriyaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-orange?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
