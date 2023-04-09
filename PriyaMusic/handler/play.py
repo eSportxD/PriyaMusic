@@ -94,7 +94,7 @@ async def play(c: Client, m: Message):
         return
     try:
         ubot = (await user.get_me()).id
-        b = await c.iter_chat_members(chat_id, ubot)
+        b = await c.get_chat_member(chat_id, ubot)
         if b.status == "kicked":
             await m.reply_text(
                 f"@{ASSISTANT_NAME} **ɪs ʙᴀɴɴᴇᴅ ɪɴ ɢʀᴏᴜᴘ** {m.chat.title}\n\n» **ᴜɴʙᴀɴ ᴛʜᴇ ᴜsᴇʀʙᴏᴛ ғɪʀsᴛ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ.**"
